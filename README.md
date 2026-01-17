@@ -53,13 +53,13 @@ No unnecessary features. No bloated systems. Just solid fundamentals that work r
 
 ## Credits
 
-**Development:** YourName
+**Development:** Qoyf
 
 **Libraries & Plugins:**
 - [open.mp team](https://open.mp) - Core platform
 - [BlueG](https://github.com/pBlueG/SA-MP-MySQL) - MySQL plugin (a_mysql)
 - [Y_Less](https://github.com/pawn-lang/YSI-Includes) - YSI framework
-- [lc_mencent](https://github.com/lc_mencent/samp-bcrypt) - bcrypt encryption (samp_bcrypt)
+- [Sreyas-Sreelal](https://github.com/Sreyas-Sreelal/samp-bcrypt) - bcrypt encryption (samp_bcrypt)
 - [urShadow](https://github.com/urShadow/Pawn.CMD) - Command processor (Pawn.CMD)
 - [maddinat0r](https://github.com/maddinat0r/sscanf) - String parser (sscanf2)
 
